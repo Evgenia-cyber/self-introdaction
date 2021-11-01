@@ -1,0 +1,15 @@
+Hello. My name is Evgenia and I am a junior frontend developer.
+I graduated from the Marine Technological Institute in Kerch. Now I am studying at RSSchool frontend course.
+I got interested in programming a few years ago. We can say - by accident. And somehow imperceptibly got involved. I want programming to become my job over time, not just a hobby.
+I don't have any commercial development experience yet. But I have good analytical skills, easy to learn and I work well in a team.
+Recently I have been working on a training project RSSchool - Momentum. This is an analogue of the eponymous application of the online store Chrome.
+I used in it the following technologies: css, html and js.
+App show time and date, also has a personal greeting, to-do, weather, audio player, quote, settings.                                                                
+The background image and greeting change depending on the time of day.
+The application remembers the username and the city specified by the user.
+Momentum is one of my favorite tasks. Not always everything worked out right away.
+The most difficult thing was to implement the settings, namely, changing the languages ​​and changing the source of the image for the background. I had to tinker so that the settings saved in local storage were displayed correctly.
+The layout is adaptive and works on different screen extensions - up to 320px
+I tried to keep the design uniform and in my opinion the application turned out to be quite nice.
+Another my favorite RSSchool task is Photo-filter. Here you can change filter settings, background color, photo size. You can also upload an image from your computer and save the created image.
+Thanks. It's all. Have a nice day. Bye.
